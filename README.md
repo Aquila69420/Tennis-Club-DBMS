@@ -10,6 +10,8 @@ A GUI based CRUD database management system built using mysql and python
 
 
 
+
+
 ## Features:
 1. Data insertion
 2. Data searching
