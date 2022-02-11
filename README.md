@@ -4,8 +4,9 @@ A GUI based CRUD database management system built using mysql and python
 
 ## Installation
 1. Install Python 3.x.x or later
-2. Install the following modules using terminal/command prompt:
+2. Install the required modules using terminal/command prompt:
 ``pip3 install -r requirements.txt``
+
 
 
 
@@ -26,5 +27,5 @@ A GUI based CRUD database management system built using mysql and python
 2. Install mysql.connector module
 3. install PyQt5 module
 
-
-Note: Before running, please edit your password according to your own established connection in mysql
+### Note
+Before running, please edit your password according to your own established connection in mysql
