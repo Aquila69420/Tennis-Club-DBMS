@@ -27,5 +27,8 @@ A GUI based CRUD database management system built using mysql and python
 2. Install mysql.connector module
 3. install PyQt5 module
 
+## License
+This is an open-source repository licensed under the [MIT License](LICENSE)
+
 ### Note
 Before running, please edit your password according to your own established connection in mysql
