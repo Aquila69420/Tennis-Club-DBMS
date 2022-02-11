@@ -1,4 +1,4 @@
-# Tennis-Club-DBMS
+# __Tennis-Club-DBMS__
 A GUI based CRUD database management system built using mysql and python
 
 
